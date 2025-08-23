@@ -14,6 +14,15 @@ A Python-based port scanner that leverages the Nmap library to perform different
   * Protocols detected.
   * Open TCP and UDP ports.
 
+## Dev Stack
+ * Python
+
+## Development Enviornment
+* Pycharm
+
+## Project Structure
+* nmap portScanner.py -> Main Code
+
 ## Requirements
 * Install dependencies: *pip install nmap*
 * Clone repository (bash: git clone https://github.com/username/project.git) or Download as ZIP
